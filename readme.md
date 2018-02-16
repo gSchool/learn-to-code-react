@@ -1,40 +1,49 @@
-# Simple React App
+# Galvanize Learn to Code: Intro to React
 
-A basic React app to show some of the concepts in ReactJS
+Welcome to Galvanize! Are you ready to learn React?
+
+## Agenda
+
+6:00-6:30p Welcome, Intros, Setup (30m)
+
+Dependencies
+- Install Node.js https://nodejs.org/en/download/
+- Install Atom https://atom.io/
+- Read React tutorial: https://reactjs.org/tutorial/tutorial.html
+
+6:30-6:45 Warmup (15m)  
+https://repl.it/@ohHeyHiSean/ExtendsSuperES6
+
+Check-in to gauge attendees after warmup
+
+6:45-7:00 Lesson (15m)  
+7:00-7:20 Code Along (20m)  
+7:20-7:40 Group Work (20m)  
+7:40-8:00 Sharing, Q&A, Discussion (20m)
+- Note: We didn’t cover “create react app” today
 
 ## Setup
 
-Clone locally and run `npm install`
+Download or clone this repo and run `npm install` in that directory
 
 Then to start, run `npm start`
 
 Files will be watched and built continuously until you quit the command
 
+## Tasks to Complete Tonight
+
+- Add notes
+
+## Stretch Goal
+
+- Delete or remove notes
+
+## Take Home Challenge
+
+- Toggle the state of a card to be `completed` (style how you'd like)
+- Select all / select none
+- Label different categories
+
 ## Watch
 
 Follow along via [screencast recording](https://vimeo.com/207527434)
-
-## Concepts
-
-- Compiling with Webpack & Babel
-- JSX
-- Props vs State
-- Lists
-- Conditionals
-
-## Tasks to Complete
-
-We've included a few tasks to complete along the way. Here they are:
-
-- Allow toggling the state of a card to be `completed` (style how you'd like)
-- Make the form submission update the list of To Do's
-- Allow creating a new To Do list with custom title
-
-## Future Steps
-
-To continue learning the React ecosystem, look into the following:
-
-- [React Router](https://css-tricks.com/learning-react-router/)
-- [Redux](http://redux.js.org/docs/advanced/UsageWithReactRouter.html)
-- [Alt.js](http://alt.js.org/)
-- [MobX](https://mobx.js.org/)
