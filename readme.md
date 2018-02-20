@@ -11,12 +11,12 @@ Dependencies
 - Install Atom https://atom.io/
 - Read React tutorial: https://reactjs.org/tutorial/tutorial.html
 
-6:30-6:45 Warmup (15m)  
+6:30-6:40 Warmup (10m)  
 https://repl.it/@ohHeyHiSean/ExtendsSuperES6
 
 Check-in to gauge attendees after warmup
 
-6:45-7:00 Lesson (15m)  
+6:40-7:00 Lesson (20m)  
 7:00-7:20 Code Along (20m)  
 7:20-7:40 Group Work (20m)  
 7:40-8:00 Sharing, Q&A, Discussion (20m)
