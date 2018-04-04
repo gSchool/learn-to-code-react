@@ -46,4 +46,4 @@ Files will be watched and built continuously until you quit the command
 
 ## Watch
 
-Follow along via [screencast recording](https://vimeo.com/207527434)
+Follow along via [screencast recording](https://www.youtube.com/watch?v=0c4R36ML6rM)
